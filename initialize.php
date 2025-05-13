@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "testimonials_project";
+$dbname = "testimonials-project";
 $user = "root";
 $password = "";
 
